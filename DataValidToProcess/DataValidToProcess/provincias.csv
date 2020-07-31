@@ -1,0 +1,256 @@
+﻿AR,AR-B,Buenos Aires,Buenos_Aires_Province
+AR,AR-K,Catamarca,Catamarca_Province
+AR,AR-H,Chaco,Chaco_Province
+AR,AR-U,Chubut,Chubut_Province
+AR,AR-C,Ciudad Autonoma de Buenos Aires,Buenos_Aires
+AR,AR-X,Cordoba,Córdoba_Province
+AR,AR-W,Corrientes,Corrientes_Province
+AR,AR-E,Entre Rios,Entre_Ríos_Province
+AR,AR-P,Formosa,Formosa_Province
+AR,AR-Y,Jujuy,Jujuy_Province
+AR,AR-L,La Pampa,La_Pampa_Province
+AR,AR-F,La Rioja,La_Rioja_Province_(Argentina)
+AR,AR-M,Mendoza,Mendoza_Province
+AR,AR-N,Misiones,Misiones_Province
+AR,AR-Q,Neuquen,Neuquén_Province
+AR,AR-R,Rio Negro,Río_Negro_Province
+AR,AR-A,Salta,Salta_Province
+AR,AR-J,San Juan,San_Juan_Province
+AR,AR-D,San Luis,San_Luis_Province
+AR,AR-Z,Santa Cruz,Santa_Cruz_Province
+AR,AR-S,Santa Fe,Santa_Fe_Province
+AR,AR-G,Santiago del Estero,Santiago_del_Estero_Province
+AR,AR-V,Tierra del Fuego,Tierra_del_Fuego_Province
+AR,AR-T,Tucuman,Tucumán_Province
+BO,BO-B,Beni,Beni_Department
+BO,BO-H,Chuquisaca,Chuquisaca_Department
+BO,BO-C,Cochabamba,Cochabamba_Department
+BO,BO-L,La Paz,La_Paz_Department_(Bolivia)
+BO,BO-O,Oruro,Oruro_Department
+BO,BO-N,Pando,Pando_Department
+BO,BO-P,Potosi,Potosí_Department
+BO,BO-S,Santa Cruz,Santa_Cruz_Department_(Bolivia)
+BO,BO-T,Tarija,Tarija_Department
+BR,BR-AC,Acre,Acre_(state)
+BR,BR-AL,Alagoas,Alagoas
+BR,BR-AP,Amapa,Amapá
+BR,BR-AM,Amazonas,Amazonas_(Brazilian_state)
+BR,BR-BA,Bahia,Bahia
+BR,BR-CE,Ceara,Ceará
+BR,BR-DF,Distrito Federal,Federal_District_(Brazil)
+BR,BR-ES,Espiritu Santo,Espírito_Santo
+BR,BR-GO,Goias,Goiás
+BR,BR-MA,Maranhao,Maranhão
+BR,BR-MT,Mato Grosso,Mato_Grosso
+BR,BR-MS,Mato Grosso do Sul,Mato_Grosso_do_Sul
+BR,BR-MG,Minas Gerais,Minas_Gerais
+BR,BR-PA,Para,Pará
+BR,BR-PB,Paraiba,Paraíba
+BR,BR-PR,Parana,Paraná_(state)
+BR,BR-PE,Pernambuco,Pernambuco
+BR,BR-PI,Piaui,Piauí
+BR,BR-RJ,Rio de Janeiro,Rio_de_Janeiro_(state)
+BR,BR-RN,Rio Grande do Norte,Rio_Grande_do_Norte
+BR,BR-RS,Rio Grande do Sul,Rio_Grande_do_Sul
+BR,BR-RO,Rondonia,Rondônia
+BR,BR-RR,Roraima,Roraima
+BR,BR-SC,Santa Catarina,Santa_Catarina_(state)
+BR,BR-SP,Sao Paulo,São_Paulo_(state)
+BR,BR-SE,Sergipe,Sergipe
+BR,BR-TO,Tocantins,Tocantins
+CL,CL-AN,Antofagasta,Antofagasta_Region
+CL,CL-AR,Araucania,La_Araucanía_Region
+CL,CL-AP,Arica y Parinacota,Arica_y_Parinacota_Region
+CL,CL-AT,Atacama,Atacama_Region
+CL,CL-AI,Aysen,Aysén_Region
+CL,CL-BI,Biobio,Bío_Bío_Region
+CL,CL-CO,Coquimbo,Coquimbo_Region
+CL,CL-LL,Los Lagos,Los_Lagos_Region
+CL,CL-LR,Los Rios,Los_Ríos_Region
+CL,CL-MA,Magallanes,Magallanes_y_la_Antártica_Chilena_Region
+CL,CL-ML,Maule,Maule_Region
+CL,CL-NB,Nuble,Ñuble_Province
+CL,CL-LI,O'Higgins,O'Higgins_Region
+CL,CL-RM,Santiago,Santiago_Metropolitan_Region
+CL,CL-TA,Tarapaca,Tarapacá_Region
+CL,CL-VS,Valparaiso,Valparaíso_Region
+CO,CO-AMA,Amazonas,Amazonas_Department
+CO,CO-ANT,Antioquia,Antioquia_Department
+CO,CO-ARA,Arauca,Arauca_Department
+CO,CO-ATL,Atlantico,Atlántico_Department
+CO,CO-DC,Bogota,Bogota
+CO,CO-BOL,Bolivar,Bolívar_Department
+CO,CO-BOY,Boyaca,Boyacá_Department
+CO,CO-CAL,Caldas,Caldas_Department
+CO,CO-CAQ,Caqueta,Caquetá_Department
+CO,CO-CAS,Casanare,Casanare_Department
+CO,CO-CAU,Cauca,Cauca_Department
+CO,CO-CES,Cesar,Cesar_Department
+CO,CO-COR,Choco,Chocó_Department
+CO,CO-CUN,Cordoba,Córdoba_Department
+CO,CO-CHO,Cundinamarca,Cundinamarca_Department
+CO,CO-GUA,Guainia,Guainía_Department
+CO,CO-GUV,Guaviare,Guaviare_Department
+CO,CO-HUI,Huila,Huila_Department
+CO,CO-LAG,La Guajira,La_Guajira_Department
+CO,CO-MAG,Magdalena,Magdalena_Department
+CO,CO-MET,Meta,Meta_Department
+CO,CO-NAR,Narino,Nariño_Department
+CO,CO-NSA,Norte de Santander,Norte_de_Santander_Department
+CO,CO-PUT,Putumayo,Putumayo_Department
+CO,CO-QUI,Quindio,Quindío_Department
+CO,CO-RIS,Risaralda,Risaralda_Department
+CO,CO-SAP,San Andres y Providencia,Archipelago_of_San_Andrés
+CO,CO-SAN,Santander,Santander_Department
+CO,CO-SUC,Sucre,Sucre_Department
+CO,CO-TOL,Tolima,Tolima_Department
+CO,CO-VAC,Valle del Cauca,Valle_del_Cauca_Department
+CO,CO-VAU,Vaupes,Vaupés_Department
+CO,CO-VID,Vichada,Vichada_Department
+EC,EC-A,Azuay,Azuay_Province
+EC,EC-B,Bolivar,Bolívar_Province_(Ecuador)
+EC,EC-F,Canar,Cañar_Province
+EC,EC-C,Carchi,Carchi_Province
+EC,EC-H,Chimborazo,Chimborazo_Province
+EC,EC-X,Cotopaxi,Cotopaxi_Province
+EC,EC-O,El Oro,El_Oro_Province
+EC,EC-E,Esmeraldas,Esmeraldas_Province
+EC,EC-W,Galapagos,Galápagos_Province
+EC,EC-G,Guayas,Guayas_Province
+EC,EC-I,Imbabura,Imbabura_Province
+EC,EC-L,Loja,Loja_Province
+EC,EC-R,Los Rios,Los_Ríos_Province
+EC,EC-M,Manabi,Manabí_Province
+EC,EC-S,Morona Santiago,Morona-Santiago_Province
+EC,EC-N,Napo,Napo_Province
+EC,EC-D,Orellana,Orellana_Province
+EC,EC-Y,Pastaza,Pastaza_Province
+EC,EC-P,Pichincha,Pichincha_Province
+EC,EC-SE,Santa Elena,Santa_Elena_Province
+EC,EC-SD,Santo Domingo de los Tsachilas,Santo_Domingo_de_los_Tsáchilas_Province
+EC,EC-U,Sucumbios,Sucumbíos_Province
+EC,EC-T,Tungurahua,Tungurahua_Province
+EC,EC-Z,Zamora-Chinchipe,Zamora-Chinchipe_Province
+FR,FR-GF,Guyane,Guyana
+GY,GY-BA,Barima-Waini,Barima-Waini
+GY,GY-CU,Cuyuni-Mazaruni,Cuyuni-Mazaruni
+GY,GY-DE,Demerara-Mahaica,Demerara-Mahaica
+GY,GY-EB,East Berbice-Corentyne,East_Berbice-Corentyne
+GY,GY-ES,Essequibo Islands-West Demerara,Essequibo_Islands-West_Demerara
+GY,GY-MA,Mahaica-Berbice,Mahaica-Berbice
+GY,GY-PM,Pomeroon-Supenaam,Pomeroon-Supenaam
+GY,GY-PT,Potaro-Siparuni,Potaro-Siparuni
+GY,GY-UD,Upper Demerara-Berbice,Upper_Demerara-Berbice
+GY,GY-UT,Upper Takutu-Upper Essequibo,Upper_Takutu-Upper_Essequibo
+PY,PY-16,Alto Paraguay,Alto_Paraguay_Department
+PY,PY-10,Alto Parana,Alto_Paraná_Department
+PY,PY-13,Amambay,Amambay_Department
+PY,PY-19,Boqueron,Boquerón_department
+PY,PY-5,Caaguazu,Caaguazú_Department
+PY,PY-6,Caazapa,Caazapá_Department
+PY,PY-14,Canindeyu,Canindeyú_Department
+PY,PY-11,Central,Central_Department
+PY,PY-1,Concepcion,Concepción_Department
+PY,PY-3,Cordillera,Cordillera_Department
+PY,PY-ASU,Distrito Capital,Asunción
+PY,PY-4,Guaira,Guairá_Department
+PY,PY-7,Itapua,Itapúa_Department
+PY,PY-8,Misiones,Misiones_Department
+PY,PY-12,Neembucu,Ñeembucú_Department
+PY,PY-9,Paraguari,Paraguarí_Department
+PY,PY-15,Presidente Hayes,Presidente_Hayes_Department
+PY,PY-2,San Pedro,San_Pedro_Department
+PE,PE-AMA,Amazonas,Amazonas_Region
+PE,PE-ANC,Ancash,Ancash_Region
+PE,PE-APU,Apurimac,Apurímac_Region
+PE,PE-ARE,Arequipa,Arequipa_Region
+PE,PE-AYA,Ayacucho,Ayacucho_Region
+PE,PE-CAJ,Cajamarca,Cajamarca_Region
+PE,PE-CAL,Callao,Callao
+PE,PE-CUS,Cusco,Cusco_Region
+PE,PE-HUV,Huancavelica,Huancavelica_Region
+PE,PE-HUC,Huanuco,Huánuco_Region
+PE,PE-ICA,Ica,Ica_Region
+PE,PE-JUN,Junin,Junín_Region
+PE,PE-LAL,La Libertad,La_Libertad_Region
+PE,PE-LAM,Lambayeque,Lambayeque_Region
+PE,PE-LIM,Lima,Lima_Region
+PE,PE-LOR,Loreto,Loreto_Region
+PE,PE-MDD,Madre de dios,Madre_de_Dios_Region
+PE,PE-MOQ,Moquegua,Moquegua_Region
+PE,PE-PAS,Pasco,Pasco_Region
+PE,PE-PIU,Piura,Piura_Region
+PE,PE-PUN,Puno,Puno_Region
+PE,PE-SAM,San Martin,San_Martín_Region
+PE,PE-TAC,Tacna,Tacna_Region
+PE,PE-TUM,Tumbes,Tumbes_Region
+PE,PE-UCA,Ucayali,Ucayali_Region
+SR,SR-BR,Brokopondo,Brokopondo_District
+SR,SR-CM,Commewijne,Commewijne_District
+SR,SR-CR,Coronie,Coronie_District
+SR,SR-MA,Marowijne,Marowijne_District
+SR,SR-NI,Nickerie,Nickerie_District
+SR,SR-PR,Para,Para_District
+SR,SR-PM,Paramaribo,Paramaribo
+SR,SR-SA,Saramacca,Saramacca_District
+SR,SR-SI,Sipaliwini,Sipaliwini_District
+SR,SR-WA,Wanica,Wanica_District
+TT,TT-CTT,Couva–Tabaquite–Talparo,Couva-Tabaquite-Talparo_Regional_Corporation
+TT,TT-DMN,Diego Martin,Diego_Martin_Regional_Corporation
+TT,TT-MRC,Mayaro-Rio Claro,Rio_Claro-Mayaro_Regional_Corporation
+TT,TT-PED,Penal-Debe,Penal-Debe_Regional_Corporation
+TT,TT-PRT,Princes Town,Princes_Town_Regional_Corporation
+TT,TT-SJL,San Juan-Laventille,San_Juan-Laventille_Regional_Corporation
+TT,TT-SGE,Sangre Grande,Sangre_Grande_Regional_Corporation
+TT,TT-SIP,Siparia,Siparia_Regional_Corporation
+TT,TT-TUP,Tunapuna-Piarco,Tunapuna-Piarco_Regional_Corporation
+TT,TT-ARI,Arima,Borough_of_Arima
+TT,TT-CHA,Chaguanas,Borough_of_Chaguanas
+TT,TT-PTF,Point Fortin,Borough_of_Point_Fortin
+TT,TT-POS,Port of Spain,City_of_Port_of_Spain
+TT,TT-SFO,San Fernando,San_Fernando
+TT,TT-TOB,Tobago,Tobago
+UY,UY-AR,Artigas,Artigas_Department
+UY,UY-CA,Canelones,Canelones_Department
+UY,UY-CL,Cerro Largo,Cerro_Largo_Department
+UY,UY-CO,Colonia,Colonia_Department
+UY,UY-DU,Durazno,Durazno_Department
+UY,UY-FS,Flores,Flores_Department
+UY,UY-FD,Florida,Florida_Department
+UY,UY-LA,Lavalleja,Lavalleja_Department
+UY,UY-MA,Maldonado,Maldonado_Department
+UY,UY-MO,Montevideo,Montevideo_Department
+UY,UY-PA,Paysandu,Paysandú_Department
+UY,UY-RN,Rio Negro,Río_Negro_Department
+UY,UY-RV,Rivera,Rivera_Department
+UY,UY-RO,Rocha,Rocha_Department
+UY,UY-SA,Salto,Salto_Department
+UY,UY-SJ,San Jose,San_José_Department
+UY,UY-SO,Soriano,Soriano_Department
+UY,UY-TA,Tacuarembo,Tacuarembó_Department
+UY,UY-TT,Treinta y Tres,Treinta_y_Tres_Department
+VE,VE-Z,Amazonas,Amazonas_(Venezuelan_state)
+VE,VE-B,Anzoategui,Anzoátegui
+VE,VE-C,Apure,Apure
+VE,VE-D,Aragua,Aragua
+VE,VE-E,Barinas,Barinas_(state)
+VE,VE-F,Bolivar,Bolívar_(state)
+VE,VE-G,Carabobo,Carabobo
+VE,VE-A,Caracas Distrito Capital,Capital_District_(Venezuela)
+VE,VE-H,Cojedes,Cojedes_(state)
+VE,VE-Y,Delta Amacuro,Delta_Amacuro
+VE,VE-W,Dependencias Federales,Federal_Dependencies_of_Venezuela
+VE,VE-I,Falcon,Falcón
+VE,VE-J,Guarico,Guárico
+VE,VE-K,Lara,Lara_(state)
+VE,VE-L,Merida,Mérida_(state)
+VE,VE-M,Miranda,Miranda_(state)
+VE,VE-N,Monagas,Monagas
+VE,VE-O,Nueva Esparta,Nueva_Esparta
+VE,VE-P,Portuguesa,Portuguesa
+VE,VE-R,Sucre,Sucre_(state)
+VE,VE-S,Tachira,Táchira
+VE,VE-T,Trujillo,Trujillo_(state)
+VE,VE-X,Vargas,Vargas_(state)
+VE,VE-U,Yaracuy,Yaracuy
+VE,VE-V,Zulia,Zulia
